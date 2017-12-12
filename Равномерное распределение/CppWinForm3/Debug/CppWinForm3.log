@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\acer-home\documents\visual studio 2015\projects\равномерное распределение\cppwinform3\MyForm.h(279): warning C4804: <=: небезопасное использование типа "bool" в операции
+  CppWinForm3.vcxproj -> C:\Users\Acer-Home\Documents\Visual Studio 2015\Projects\Равномерное распределение\Debug\CppWinForm3.exe
+  CppWinForm3.vcxproj -> C:\Users\Acer-Home\Documents\Visual Studio 2015\Projects\Равномерное распределение\Debug\CppWinForm3.pdb (Full PDB)
