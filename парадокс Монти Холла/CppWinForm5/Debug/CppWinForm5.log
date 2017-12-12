@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\acer-home\documents\visual studio 2015\projects\парадокс монти холла\cppwinform5\MyForm.h(250): warning C4101: choice: неиспользованная локальная переменная
+c:\users\acer-home\documents\visual studio 2015\projects\парадокс монти холла\cppwinform5\MyForm.h(250): warning C4101: car: неиспользованная локальная переменная
+c:\users\acer-home\documents\visual studio 2015\projects\парадокс монти холла\cppwinform5\myform.h(257): warning C4700: использована неинициализированная локальная переменная "changeMind"
+  CppWinForm5.vcxproj -> C:\Users\Acer-Home\Documents\Visual Studio 2015\Projects\парадокс Монти Холла\Debug\CppWinForm5.exe
+  CppWinForm5.vcxproj -> C:\Users\Acer-Home\Documents\Visual Studio 2015\Projects\парадокс Монти Холла\Debug\CppWinForm5.pdb (Full PDB)
