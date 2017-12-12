@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\acer-home\documents\visual studio 2015\projects\система дискретных случайных величин\cppwinform4\myform.h(390): warning C4700: использована неинициализированная локальная переменная "Mx"
+c:\users\acer-home\documents\visual studio 2015\projects\система дискретных случайных величин\cppwinform4\myform.h(391): warning C4700: использована неинициализированная локальная переменная "Mx2"
+c:\users\acer-home\documents\visual studio 2015\projects\система дискретных случайных величин\cppwinform4\myform.h(392): warning C4700: использована неинициализированная локальная переменная "My"
+c:\users\acer-home\documents\visual studio 2015\projects\система дискретных случайных величин\cppwinform4\myform.h(393): warning C4700: использована неинициализированная локальная переменная "My2"
+c:\users\acer-home\documents\visual studio 2015\projects\система дискретных случайных величин\cppwinform4\myform.h(405): warning C4700: использована неинициализированная локальная переменная "MXY"
+  CppWinForm4.vcxproj -> C:\Users\Acer-Home\Documents\Visual Studio 2015\Projects\Система дискретных случайных величин\Debug\CppWinForm4.exe
+  CppWinForm4.vcxproj -> C:\Users\Acer-Home\Documents\Visual Studio 2015\Projects\Система дискретных случайных величин\Debug\CppWinForm4.pdb (Full PDB)
